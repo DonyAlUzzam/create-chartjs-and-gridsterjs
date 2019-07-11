@@ -57,7 +57,7 @@
 	</div>
 	<br/>
 	<br/>
-	<form action="tes.php" method="POST" name="form-input-data">
+	<form action="addAction.php" method="POST" name="form-input-data">
     <table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr height="46">
                 <td width="10%"> </td>
